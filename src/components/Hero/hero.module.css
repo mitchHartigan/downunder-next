@@ -1,0 +1,22 @@
+.title {
+  font-family: Cardo;
+  font-size: 4rem;
+  color: black;
+}
+
+.subtitle {
+  font-family: Roboto;
+  font-size: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-image: url("/HeroBackground.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1px solid red;
+}
