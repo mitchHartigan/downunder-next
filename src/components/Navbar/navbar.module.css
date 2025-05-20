@@ -1,14 +1,21 @@
-.container {
+.content {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
 
-.links-container {
+.container {
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 2rem 3rem 2rem 3rem;
+}
+
+.links {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  width: 50vw;
+  width: 35vw;
 }

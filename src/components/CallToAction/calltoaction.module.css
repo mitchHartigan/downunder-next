@@ -3,16 +3,16 @@
   grid-template-columns: 1fr 1fr;
   width: 100%;
   background-color: white;
-  padding: 1rem 0rem 1rem 0rem;
+  padding: 2rem 0rem 2rem 0rem;
 }
 
 .text {
   font-family: Roboto;
   color: black;
   font-size: 1.2rem;
-  line-height: 1.5rem;
+  line-height: 1.8rem;
   margin: 1rem 0rem 1rem 0rem;
-  max-width: 32vw;
+  max-width: 28vw;
 }
 
 .title {
@@ -24,7 +24,7 @@
 }
 
 .underline {
-  width: 15vw;
+  width: 19vw;
   height: 4px;
   background-color: green;
 }
